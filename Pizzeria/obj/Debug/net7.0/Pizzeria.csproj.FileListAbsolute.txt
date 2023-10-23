@@ -1,0 +1,14 @@
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/bin/Debug/net7.0/Pizzeria
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/bin/Debug/net7.0/Pizzeria.deps.json
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/bin/Debug/net7.0/Pizzeria.runtimeconfig.json
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/bin/Debug/net7.0/Pizzeria.dll
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/bin/Debug/net7.0/Pizzeria.pdb
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/obj/Debug/net7.0/Pizzeria.GeneratedMSBuildEditorConfig.editorconfig
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/obj/Debug/net7.0/Pizzeria.AssemblyInfoInputs.cache
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/obj/Debug/net7.0/Pizzeria.AssemblyInfo.cs
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/obj/Debug/net7.0/Pizzeria.csproj.CoreCompileInputs.cache
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/obj/Debug/net7.0/Pizzeria.dll
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/obj/Debug/net7.0/refint/Pizzeria.dll
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/obj/Debug/net7.0/Pizzeria.pdb
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/obj/Debug/net7.0/Pizzeria.genruntimeconfig.cache
+/Users/insaf/Documents/M1/csharp/Pizzeria/Pizzeria/obj/Debug/net7.0/ref/Pizzeria.dll
